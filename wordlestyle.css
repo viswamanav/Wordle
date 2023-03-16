@@ -1,0 +1,74 @@
+body{
+	margin-top: 15%;
+
+
+    background-image: url(as.gif) ;
+	background-size: cover;
+	background-position: center;
+
+	color: aliceblue;
+}
+h1 {
+	text-align: center;
+    
+}
+
+#word-container {
+    box-shadow: #b70f00;
+	margin: 30px 0;
+	text-align: center;
+}
+
+#word {
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+#guess-container {
+	margin-top: 30px;
+	text-align: center;
+    border: #600000 dotted 1px;
+    padding-top: 10px;
+}
+
+label {
+	display: inline-block;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+input[type="text"] {
+ 
+	padding: 5px;
+	border: 1px solid #760000;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+button {
+	padding: 5px 10px;
+	background-color: #ac1414;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #950202;
+}
+
+#message {
+    
+    border: #ffffff solid 2px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+#container{
+	background-image: url(anime-dance.gif);
+
+	background-color: #4140409d;
+}
